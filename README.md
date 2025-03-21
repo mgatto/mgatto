@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello there
 
-<!--
-**mgatto/mgatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Michael Gatto, a Full-stack Lead Developer *and* Engineering Manager within Jonas Software. I'm also a graduate student in Human Language Technology at the University of Arizona.
 
-Here are some ideas to get you started:
+## 👨‍💻 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Mobile and Front-end Web Development
+* Computational Linguistics
+
+## 🛠 Technologies I work with
+
+* **Front-end:** React, Typescript, Ionic, Capacitor, Cordova.
+* **Back-end:** Java, Coldfusion, SQL.
+* **Other:** Python, SpaCy, NLTK, NumPy, Cython, C
+
+## 🌐 Languages I can work with
+
+* Arabic 🇸🇦
+* Persian 🇦🇫 🇮🇷 🇹🇯 
+* Italian 🇮🇹
+
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgatto) 
