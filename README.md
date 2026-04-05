@@ -1,12 +1,12 @@
 # Hello there
 
-I'm Michael Gatto, a Full-stack Lead Developer turned Engineering Manager within Jonas Software where I happily inspire my teammates to be great developers and thinkers. I'm also a graduate student in Human Language Technology at the University of Arizona.
+I'm Michael Gatto, a Full-stack Software Engineer turned Engineering Manager within Jonas Software where I serve and coach my Engineering, QA and IT teams to be deeper thinkers and faster performers. I'm also a graduate student in Human Language Technology at the University of Arizona where I research the linguistics of programming language
 
 ## 👨‍💻 What I do
 
 * Mobile and Front-end Web Development
 * Multilingual Programming Languages
-* Historical Linguistics of Programming Languages
+<!-- * Historical Linguistics of Programming Languages -->
 * Computational Linguistics
 
 ## 🛠 Technologies I *currently* work with
