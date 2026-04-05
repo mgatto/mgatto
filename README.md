@@ -6,14 +6,16 @@ I'm Michael Gatto, a Full-stack Software Engineer turned Engineering Manager wit
 
 * Mobile and Front-end Web Development
 * Multilingual Programming Languages
-<!-- * Historical Linguistics of Programming Languages -->
 * Computational Linguistics
+
+<!-- * Historical Linguistics of Programming Languages -->
 
 ## 🛠 Technologies I *currently* work with
 
 * **Front-end:** React, Typescript, Ionic, Capacitor, Cordova.
 * **Back-end:** Java, Coldfusion, SQL.
 * **Other:** Python, SpaCy, NLTK, NumPy, Cython, C, Fortran
+
 <!--* **Past:** Perl, BASIC :-) -->
 <!--* **Aspiring:** Racket, OCaml -->
 
