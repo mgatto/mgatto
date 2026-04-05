@@ -29,4 +29,6 @@ I'm Michael Gatto, a Full-stack Software Engineer turned Engineering Manager wit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgatto) 
 
+My blog: [Mashq and Machine](https://mashqandmachine.com) where I write about the intersection of Islamicate linguistics and computation.
+
 <!-- About.me/ -->
