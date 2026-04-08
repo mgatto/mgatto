@@ -14,7 +14,7 @@ I'm Michael Gatto, a Full-stack Software Engineer turned Engineering Manager wit
 
 * **Front-end:** React, Typescript, Ionic, Capacitor, Cordova.
 * **Back-end:** Java, Coldfusion, SQL.
-* **Other:** Python, SpaCy, NLTK, NumPy, Cython, C, Fortran
+* **NLP/ML:** Python, SpaCy, NLTK, NumPy, Cython, C, Fortran
 
 <!--* **Past:** Perl, BASIC :-) -->
 <!--* **Aspiring:** Racket, OCaml -->
