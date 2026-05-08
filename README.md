@@ -1,30 +1,34 @@
-# Hello there
+# Hi, I'm Michael Gatto
 
-I'm Michael Gatto, a Full-stack Lead Developer turned Engineering Manager within Jonas Software where I happily inspire my teammates to be great developers and thinkers. I'm also a graduate student in Human Language Technology at the University of Arizona.
+I'm an engineer who leads, a researcher who ships, and a manager who still reads the diff.
 
 ## 👨‍💻 What I do
 
-* Mobile and Front-end Web Development
-* Multilingual Programming Languages
-* Historical Linguistics of Programming Languages
-* Computational Linguistics
+- Localized Programming Language Design
+- Mobile and Front-end Web Development
+- Computational Linguistics
 
-## 🛠 Technologies I *currently* work with
+Software engineer, Director of Engineering, and NLP researcher — one through-line: programming languages *are* human languages. Type systems are morphology. Grammars aren't a metaphor — they're the thing itself. These repos are where that pursuit lives.
 
-* **Front-end:** React, Typescript, Ionic, Capacitor, Cordova.
-* **Back-end:** Java, Coldfusion, SQL.
-* **Other:** Python, SpaCy, NLTK, NumPy, Cython, C, Fortran
-<!--* **Past:** Perl, BASIC :-) -->
-<!--* **Aspiring:** Racket, OCaml -->
+### 🔬 Featured Projects
 
-## 🌐 Languages I can work with
+**[ArabicBASIC](https://github.com/mgatto/ArabicBASIC)** — Full ANTLR 4 grammar and runtime interpreter for a BASIC dialect with a complete Arabic keyword set, Eastern Arabic-Indic numeral support, and orthographic variant handling. Addresses the formal question of what a programming language looks like when it isn't rooted in English morphology. 
 
-* Arabic 🇸🇦
-* Persian 🇦🇫 🇮🇷 🇹🇯 
-* Italian 🇮🇹
+**[Arabic Root Prediction](https://github.com/mgatto/arabic-root-consonant-extractor)** — Character-level bidirectional LSTM (PyTorch) trained on the Al-Mus'haf Quranic Corpus to predict Arabic triliteral roots across three root classes (non-weak, geminated, weak).
 
-## 📫 How to reach me
+## 🛠 Technologies I work with and research with
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgatto) 
+- **Front-end:** React, TypeScript, Capacitor, Ionic
+- **Back-end:** Java, Python, SQL
+- **NLP/ML:** PyTorch, spaCy, NLTK, NumPy, ANTLR 4
 
-<!-- About.me/ -->
+## 🌐 Human languages I work with
+
+- Arabic 🇸🇦
+- Persian 🇦🇫 🇮🇷 🇹🇯
+- Italian 🇮🇹
+
+## 📫 Reach me
+
+[LinkedIn](https://linkedin.com/in/mgatto)
+[Blog: "Mashq and Machine"](https://mashqandmachine.com)
