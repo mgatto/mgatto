@@ -30,5 +30,6 @@ Software engineer, Director of Engineering, and NLP researcher — one through-l
 
 ## 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/mgatto)
-[Blog: "Mashq and Machine"](https://mashqandmachine.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgatto) 
+
+Blog: [Mashq and Machine](https://mashqandmachine.com) where I write about the intersection of Islamicate linguistics and computation.
