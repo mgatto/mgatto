@@ -8,7 +8,7 @@ I'm an engineer who leads, a researcher who ships, and a manager who still reads
 - Mobile and Front-end Web Development
 - Computational Linguistics
 
-Software engineer, Director of Engineering, and NLP researcher — one through-line: programming languages *are* human languages. Type systems are morphology. Grammars aren't a metaphor — they're the thing itself. These repos are where that pursuit lives.
+Software engineer, Director of Engineering, and NLP researcher. I believe that programming languages *are* human languages. Programming languages should be studied in the field of Linguistics because type systems are morphology and syntax is just syntax in both arenas. I also believe strongly in localized Programming Languages. These repos are where those pursuits live.
 
 ### 🔬 Featured Projects
 
